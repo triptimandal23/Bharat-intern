@@ -313,3 +313,13 @@ footer p:nth-child(2){
     font-size: 14px;
 
 }
+@media screen and (max-width: 600px){
+    h1{
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .hero{
+        background-image: url("https://plus.unsplash.com/premium_photo-1661740462837-80264d741e04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80");
+
+    }
+}
